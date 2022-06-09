@@ -1,4 +1,5 @@
-### This Repo Implements algorithms , (mainly) in python, related to first encounters when learning algorithms and data structures, a good portion of these implementations used the book `Introduction to Algorithms from Thomas H. Cormen` as theoretical material
+### This Repo Implements algorithms 🤗:
+Implementations are (mainly) in python, related to first encounters when learning algorithms and data structures, a good portion of these implementations used the book `Introduction to Algorithms from Thomas H. Cormen` as theoretical material
 
 ### Some examples that include dynamic programming, divide and conquer, greedy:
 * Longest Increasing Subsequence (lis.py)
